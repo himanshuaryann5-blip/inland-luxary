@@ -1,0 +1,296 @@
+[
+  {
+    "path": "/index.html",
+    "title": "Thoughtfully Designed. Beautifully Lived.",
+    "category": "Home",
+    "kind": "home"
+  },
+  {
+    "path": "/about.html",
+    "title": "About Inland Luxury",
+    "category": "Studio",
+    "kind": "content"
+  },
+  {
+    "path": "/design-philosophy.html",
+    "title": "Our Design Philosophy",
+    "category": "Studio",
+    "kind": "content"
+  },
+  {
+    "path": "/our-process.html",
+    "title": "Our Process",
+    "category": "Studio",
+    "kind": "content"
+  },
+  {
+    "path": "/services.html",
+    "title": "Interior Design Services",
+    "category": "Services",
+    "kind": "content"
+  },
+  {
+    "path": "/projects.html",
+    "title": "Projects & Design Concepts",
+    "category": "Portfolio",
+    "kind": "content"
+  },
+  {
+    "path": "/design-ideas.html",
+    "title": "Design Ideas & Inspiration",
+    "category": "Inspiration",
+    "kind": "content"
+  },
+  {
+    "path": "/products-materials.html",
+    "title": "Products & Materials",
+    "category": "Materials",
+    "kind": "content"
+  },
+  {
+    "path": "/catalogues.html",
+    "title": "Catalogues & Guides",
+    "category": "Resources",
+    "kind": "content"
+  },
+  {
+    "path": "/cost-calculators.html",
+    "title": "Interior Cost Calculators",
+    "category": "Planning",
+    "kind": "content"
+  },
+  {
+    "path": "/faq.html",
+    "title": "Frequently Asked Questions",
+    "category": "Help",
+    "kind": "content"
+  },
+  {
+    "path": "/contact.html",
+    "title": "Contact & Consultation",
+    "category": "Contact",
+    "kind": "content"
+  },
+  {
+    "path": "/full-home-interiors.html",
+    "title": "Full Home Interiors",
+    "category": "Services",
+    "kind": "content"
+  },
+  {
+    "path": "/luxury-home-interiors.html",
+    "title": "Luxury Home Interiors",
+    "category": "Services",
+    "kind": "content"
+  },
+  {
+    "path": "/apartment-interiors.html",
+    "title": "Apartment Interiors",
+    "category": "Services",
+    "kind": "content"
+  },
+  {
+    "path": "/villa-interiors.html",
+    "title": "Villa Interiors",
+    "category": "Services",
+    "kind": "content"
+  },
+  {
+    "path": "/modular-kitchen.html",
+    "title": "Modular Kitchen Design",
+    "category": "Services",
+    "kind": "content"
+  },
+  {
+    "path": "/wardrobes-storage.html",
+    "title": "Wardrobes & Storage",
+    "category": "Services",
+    "kind": "content"
+  },
+  {
+    "path": "/living-room-interiors.html",
+    "title": "Living Room Interiors",
+    "category": "Services",
+    "kind": "content"
+  },
+  {
+    "path": "/bedroom-interiors.html",
+    "title": "Bedroom Interiors",
+    "category": "Services",
+    "kind": "content"
+  },
+  {
+    "path": "/dining-room-interiors.html",
+    "title": "Dining Room Interiors",
+    "category": "Services",
+    "kind": "content"
+  },
+  {
+    "path": "/bathroom-interiors.html",
+    "title": "Bathroom Interiors",
+    "category": "Services",
+    "kind": "content"
+  },
+  {
+    "path": "/false-ceiling-lighting.html",
+    "title": "False Ceiling & Lighting",
+    "category": "Services",
+    "kind": "content"
+  },
+  {
+    "path": "/home-renovation.html",
+    "title": "Home Renovation",
+    "category": "Services",
+    "kind": "content"
+  },
+  {
+    "path": "/office-interiors.html",
+    "title": "Office Interiors",
+    "category": "Services",
+    "kind": "content"
+  },
+  {
+    "path": "/commercial-interiors.html",
+    "title": "Commercial Interiors",
+    "category": "Services",
+    "kind": "content"
+  },
+  {
+    "path": "/modern-living-rooms.html",
+    "title": "Modern Living Rooms",
+    "category": "Rooms",
+    "kind": "content"
+  },
+  {
+    "path": "/luxury-bedrooms.html",
+    "title": "Luxury Bedrooms",
+    "category": "Rooms",
+    "kind": "content"
+  },
+  {
+    "path": "/modular-kitchen-ideas.html",
+    "title": "Modular Kitchen Ideas",
+    "category": "Rooms",
+    "kind": "content"
+  },
+  {
+    "path": "/walk-in-wardrobes.html",
+    "title": "Walk-in Wardrobes",
+    "category": "Rooms",
+    "kind": "content"
+  },
+  {
+    "path": "/small-home-interiors.html",
+    "title": "Small Home Interiors",
+    "category": "Rooms",
+    "kind": "content"
+  },
+  {
+    "path": "/home-office-ideas.html",
+    "title": "Home Office Ideas",
+    "category": "Rooms",
+    "kind": "content"
+  },
+  {
+    "path": "/dining-room-ideas.html",
+    "title": "Dining Room Ideas",
+    "category": "Rooms",
+    "kind": "content"
+  },
+  {
+    "path": "/bathroom-design-ideas.html",
+    "title": "Bathroom Design Ideas",
+    "category": "Rooms",
+    "kind": "content"
+  },
+  {
+    "path": "/lighting-ceiling-ideas.html",
+    "title": "Lighting & Ceiling Ideas",
+    "category": "Rooms",
+    "kind": "content"
+  },
+  {
+    "path": "/interior-cost-estimator.html",
+    "title": "Full Home Interior Cost Estimator",
+    "category": "Cost Planning",
+    "kind": "calculator"
+  },
+  {
+    "path": "/kitchen-cost-estimator.html",
+    "title": "Modular Kitchen Cost Estimator",
+    "category": "Cost Planning",
+    "kind": "calculator"
+  },
+  {
+    "path": "/wardrobe-cost-estimator.html",
+    "title": "Wardrobe Cost Estimator",
+    "category": "Cost Planning",
+    "kind": "calculator"
+  },
+  {
+    "path": "/project-concept-warm-residence.html",
+    "title": "Warm Contemporary Residence",
+    "category": "Design Concept",
+    "kind": "project"
+  },
+  {
+    "path": "/project-concept-modern-kitchen.html",
+    "title": "Modern Kitchen Study",
+    "category": "Design Concept",
+    "kind": "project"
+  },
+  {
+    "path": "/project-concept-serene-bedroom.html",
+    "title": "Serene Bedroom Study",
+    "category": "Design Concept",
+    "kind": "project"
+  },
+  {
+    "path": "/privacy-policy.html",
+    "title": "Privacy Policy",
+    "category": "Legal",
+    "kind": "content"
+  },
+  {
+    "path": "/terms-and-conditions.html",
+    "title": "Terms & Conditions",
+    "category": "Legal",
+    "kind": "content"
+  },
+  {
+    "path": "/kitchen-finishes.html",
+    "title": "Kitchen Finishes",
+    "category": "Materials",
+    "kind": "content"
+  },
+  {
+    "path": "/cabinetry-shutters.html",
+    "title": "Cabinetry & Shutters",
+    "category": "Materials",
+    "kind": "content"
+  },
+  {
+    "path": "/countertop-materials.html",
+    "title": "Countertop Materials",
+    "category": "Materials",
+    "kind": "content"
+  },
+  {
+    "path": "/flooring-materials.html",
+    "title": "Flooring Materials",
+    "category": "Materials",
+    "kind": "content"
+  },
+  {
+    "path": "/wall-finishes.html",
+    "title": "Wall Finishes & Panels",
+    "category": "Materials",
+    "kind": "content"
+  },
+  {
+    "path": "/lighting-collections.html",
+    "title": "Lighting Concepts",
+    "category": "Materials",
+    "kind": "content"
+  }
+]

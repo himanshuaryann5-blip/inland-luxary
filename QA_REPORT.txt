@@ -1,0 +1,9 @@
+INLAND LUXURY STATIC SITE — BUILD CHECK
+Generated pages: 49
+Routes in routes.json: 49
+Shared CSS: present
+Shared JS: present
+Internal HTML link validation errors: 0
+No missing local HTML targets detected by the static checker.
+
+Not tested in this build environment: real browser rendering, console/network errors, mobile viewport overflow, external image availability/licensing, and WhatsApp handoff completion.
